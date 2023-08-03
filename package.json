@@ -1,12 +1,12 @@
 {
   "name": "pinecone-filter",
   "version": "0.0.1",
-  "description": "",
+  "description": "A simple filter builder for pinecone meta filter.",
   "main": "index.js",
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
+  "keywords": ["pinecone","pinecone-filter","filter-builder"],
   "author": "",
   "license": "ISC"
 }
